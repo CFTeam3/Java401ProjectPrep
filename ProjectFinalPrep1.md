@@ -7,7 +7,7 @@ Code Fellows Java 401 Project Week Prep Documents
 * Nick Brown
 * Rocio Martinez
 * Wasim Soomro
-* David Oswald
+* Davey Oswald
 <br>
 <br>
 
@@ -22,7 +22,7 @@ Code Fellows Java 401 Project Week Prep Documents
 
  * Wasim Soomro: leadership, communication, organization.
 
- * David Oswald: communication, motivation, work ethic.
+ * Davey Oswald: communication, motivation, work ethic.
 
 <br>
 <br>
@@ -40,7 +40,7 @@ Code Fellows Java 401 Project Week Prep Documents
   * Nick Brown: technical/craft
   * Rocio Martinez: craft/network
   * Wasim Soomro: technical/technical
-  * David Oswald: teamwork/communication
+  * Davey Oswald: teamwork/communication
 <br>
 <br>
 

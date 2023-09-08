@@ -1,5 +1,5 @@
 # The Object Oriented Ones Project Ideas
-- Nick Brown, Rocio Martinez, Wasim Soomro, David Oswald
+- Nick Brown, Rocio Martinez, Wasim Soomro, Davey Oswald
 
   
 ## Project Idea 1: Expense Tracker
