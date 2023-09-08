@@ -50,8 +50,10 @@ Code Fellows Java 401 Project Week Prep Documents
   * Be reachable via slack as our primary source of messaging communication.
   * Should we have to work independently, we will provide morning and evening updates to the group<br>
 <br>
+<br>
 
 ### Conflict Plan
+
 
 *What will be your group’s process to resolve conflict, when it arises?*
 
@@ -97,6 +99,8 @@ Code Fellows Java 401 Project Week Prep Documents
 
 *How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?*
   * Being aware, having fun, remembering that there is no such thing as a coding emergency, let's rely on each other to keep on the same step, incorporate code review once in awhile.
+<br>
+<br>
 
 ### Work Plan
 
@@ -105,15 +109,21 @@ Code Fellows Java 401 Project Week Prep Documents
 
 *What project management tool will be used?*
   * GitHub Project Board
+<br>
+<br>
 
 ### Presentation Deck
 
 Link: [Final Presentation Slide Deck](https://docs.google.com/presentation/d/1E8ET3kuivTQB_GiXDZr9EMPFPMXc9rFo9jfNlWEFXvk/edit?usp=sharing)
+<br>
+<br>
 
 ### Practice Session
 
 * Date:
 * Time:
+<br>
+<br>
 
 ### Git Process
 
